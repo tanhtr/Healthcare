@@ -129,7 +129,6 @@ def main():
 
     l = LiveMode(your_app_client_id, your_app_client_secret)
     l.start(trained_profile_name)
-    print("Hello World")
 
 if __name__ == '__main__':
     main()

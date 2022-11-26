@@ -1,4 +1,4 @@
-import websocket #'pip install websocket-client' for install
+import websocket
 from datetime import datetime
 import json
 import ssl
